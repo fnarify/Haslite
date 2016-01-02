@@ -1,0 +1,5 @@
+let 
+  x   = 100;
+  inc = \ a :: Int -> a + 1
+in
+  inc x
