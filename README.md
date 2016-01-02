@@ -1,2 +1,2 @@
 # Haslite
-Simple Compiler for made-up language Haslite
+Simple compiler for made-up language Haslite
