@@ -68,3 +68,6 @@ in
    a
 ```
 Primarily because I want the semantic analyser to force the type of b to be an integer, to follow the language rules.
+
+#Experimental Files
+Two replacement files that extend the semantic analyser such that variables can be referenced within their own closure, so recursive definitions are now possible, such as the one described as invalid above. *Note* that these files may have bugs in them as they were not tested fully for use with the translator.
