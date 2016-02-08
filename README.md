@@ -1,5 +1,5 @@
 # Haslite
-Simple compiler for made-up language Haslite which is an expression-based language.
+Simple compiler for made-up language Haslite which is an expression-based language. This compiler makes use of functionality from the library [Kiama](https://bitbucket.org/inkytonik/kiama). 
 
 **How to run**
 
